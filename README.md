@@ -1,3 +1,5 @@
+# E-Commerce Costumer Churn
+
 # Permasalahan Bisnis
 
 Untuk menarik pelanggan E-Commerce tentu membutuhkan modal yang besar untuk marketing, edukasi, dan lainnya. Bahkan ada konsep "bakar uang" yang dilakukan startup 
